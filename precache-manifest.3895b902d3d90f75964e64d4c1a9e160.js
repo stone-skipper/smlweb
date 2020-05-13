@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41ffdee5b0c7f774053c4bc325500494",
+    "revision": "6b9aabd5f603db419dd2b12165112347",
     "url": "/smlweb/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smlweb/static/css/2.043b003d.chunk.css"
   },
   {
-    "revision": "34deba9a1335a452b7e9",
+    "revision": "d9189a6d3bf21f27f725",
     "url": "/smlweb/static/css/main.5e45a8e9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smlweb/static/js/2.2df31a0d.chunk.js"
   },
   {
-    "revision": "34deba9a1335a452b7e9",
-    "url": "/smlweb/static/js/main.d5e931b1.chunk.js"
+    "revision": "d9189a6d3bf21f27f725",
+    "url": "/smlweb/static/js/main.001c0b79.chunk.js"
   },
   {
     "revision": "31536dce5b422860c224",
@@ -712,8 +712,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smlweb/static/media/p01_sketch.195c4976.png"
   },
   {
-    "revision": "03f96dbd52cae402fe31ffce8cf76217",
-    "url": "/smlweb/static/media/p01_thumb.03f96dbd.jpg"
+    "revision": "4505db4294d6b91ff9eb20c23bc74940",
+    "url": "/smlweb/static/media/p01_thumb.4505db42.jpg"
   },
   {
     "revision": "1da7aa3ef400cf479f33c11331a1dc2f",
@@ -1124,8 +1124,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smlweb/static/media/p03_pr13.5f762d67.jpg"
   },
   {
-    "revision": "1804f4bd9a27dde3550ddadfe698fc55",
-    "url": "/smlweb/static/media/p03_thumb.1804f4bd.jpg"
+    "revision": "b39e600b94abfe3345d1f61f97a5a025",
+    "url": "/smlweb/static/media/p03_thumb.b39e600b.jpg"
   },
   {
     "revision": "e0f717cc95b12fa4987862d5bd6de511",
@@ -1140,8 +1140,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smlweb/static/media/p04_img02.40ff79f7.jpg"
   },
   {
-    "revision": "41ba55da595515591ccc8defcf0982c2",
-    "url": "/smlweb/static/media/p04_thumb.41ba55da.jpg"
+    "revision": "f2d63c34848a36fd16ba6947165ee8c9",
+    "url": "/smlweb/static/media/p04_thumb.f2d63c34.jpg"
   },
   {
     "revision": "310bc7d5715c5fdbecd475e9f2c44043",
