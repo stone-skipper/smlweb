@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/www.seungmee-lee.com/precache-manifest.24262aa10d448a6c58641a65bb5f6f7b.js"
+  "/www.seungmee-lee.com/precache-manifest.b7d0dd2d9d18792c674485ce3179a6eb.js"
 );
 
 self.addEventListener('message', (event) => {

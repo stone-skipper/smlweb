@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "239c1136e2e2fec19d074c8af9722473",
+    "revision": "e59c28ccf2da0fda28fa60fdc4370f70",
     "url": "/www.seungmee-lee.com/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/www.seungmee-lee.com/static/css/2.08c605f0.chunk.css"
   },
   {
-    "revision": "2b90140dd649df8c10aa",
+    "revision": "024c8f2ea8c073602b70",
     "url": "/www.seungmee-lee.com/static/css/main.c90134de.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/www.seungmee-lee.com/static/js/2.c21d8d89.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b90140dd649df8c10aa",
-    "url": "/www.seungmee-lee.com/static/js/main.6b60bade.chunk.js"
+    "revision": "024c8f2ea8c073602b70",
+    "url": "/www.seungmee-lee.com/static/js/main.3b867278.chunk.js"
   },
   {
     "revision": "604680ee849976cea635",
