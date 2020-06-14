@@ -1,27 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7467b936b0a998bce14340b90d46554f",
+    "revision": "b543ed1f5257262adf3d0811238880bd",
     "url": "/smlweb/index.html"
   },
   {
-    "revision": "4a17e8dd94f9ea5e8dc7",
-    "url": "/smlweb/static/css/2.08c605f0.chunk.css"
+    "revision": "5fe89595e0c523cff074",
+    "url": "/smlweb/static/css/main.5e45a8e9.chunk.css"
   },
   {
-    "revision": "d1fadd99cee4f6491aa8",
-    "url": "/smlweb/static/css/main.c90134de.chunk.css"
+    "revision": "a3cc53aa8141b8509905",
+    "url": "/smlweb/static/js/2.738c9dd4.chunk.js"
   },
   {
-    "revision": "4a17e8dd94f9ea5e8dc7",
-    "url": "/smlweb/static/js/2.0f78dc54.chunk.js"
+    "revision": "611ac0a7a1b1fcf8a4a91770e6851ab0",
+    "url": "/smlweb/static/js/2.738c9dd4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6033bd201f2f231876a8e2a87cac8111",
-    "url": "/smlweb/static/js/2.0f78dc54.chunk.js.LICENSE.txt"
-  },
-  {
-    "revision": "d1fadd99cee4f6491aa8",
-    "url": "/smlweb/static/js/main.08056182.chunk.js"
+    "revision": "5fe89595e0c523cff074",
+    "url": "/smlweb/static/js/main.911e4b70.chunk.js"
   },
   {
     "revision": "c908dfc71775d8e3ee25",
