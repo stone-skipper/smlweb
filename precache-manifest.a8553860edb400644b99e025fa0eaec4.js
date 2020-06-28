@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca0f3f85c76d0077ec699f92033448e7",
+    "revision": "46bfb4f61a5e77eab8a980edc09a6f7c",
     "url": "/smlweb/index.html"
   },
   {
-    "revision": "f6fdabba150f8e739fe1",
+    "revision": "fe59bb01932fd2c10839",
     "url": "/smlweb/static/css/main.5e45a8e9.chunk.css"
   },
   {
-    "revision": "cedfcf837978466c2167",
-    "url": "/smlweb/static/js/2.14f1bf27.chunk.js"
+    "revision": "6a1577c44cb1396f1dfa",
+    "url": "/smlweb/static/js/2.0ab2a49d.chunk.js"
   },
   {
     "revision": "611ac0a7a1b1fcf8a4a91770e6851ab0",
-    "url": "/smlweb/static/js/2.14f1bf27.chunk.js.LICENSE.txt"
+    "url": "/smlweb/static/js/2.0ab2a49d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f6fdabba150f8e739fe1",
-    "url": "/smlweb/static/js/main.440975ba.chunk.js"
+    "revision": "fe59bb01932fd2c10839",
+    "url": "/smlweb/static/js/main.344a213a.chunk.js"
   },
   {
     "revision": "ba6e8c1370ab4be5b2c2",
@@ -1380,10 +1380,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smlweb/static/media/p04_img18.e2037e9d.jpg"
   },
   {
-    "revision": "9a882874d23bd782b00001f2ab60a7ab",
-    "url": "/smlweb/static/media/p04_img19 copy.9a882874.jpg"
-  },
-  {
     "revision": "315d093c2084a85b6125accf57890675",
     "url": "/smlweb/static/media/p04_img19.315d093c.jpg"
   },
@@ -1576,6 +1572,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smlweb/static/media/p05_thumb.4531d663.jpg"
   },
   {
+    "revision": "c753213142b5bf624ecf415ff435b1d3",
+    "url": "/smlweb/static/media/p05_thumbsmall.c7532131.jpg"
+  },
+  {
     "revision": "a52efd3fa9b50204db7f6f6df15454b2",
     "url": "/smlweb/static/media/p06_icon02.a52efd3f.png"
   },
@@ -1730,6 +1730,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c62f2c390e730068c5e40fc15231df6a",
     "url": "/smlweb/static/media/p06_thumb.c62f2c39.jpg"
+  },
+  {
+    "revision": "fec27c29b7cfe9ff64952b510519cff7",
+    "url": "/smlweb/static/media/p06_thumbsmall.fec27c29.jpg"
   },
   {
     "revision": "a9ac9d9483196576f7fecf77a499f9af",
